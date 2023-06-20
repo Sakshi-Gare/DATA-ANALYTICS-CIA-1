@@ -4,10 +4,10 @@
 ### DESCRIPTION
 
     This project aims to create a graphical user interface (GUI) based scientific calculator using python programming.
-    The scientific calculator performs various arithematic operations, trignometric functions, logarithmic functions, advanced functions and has scientific notations. There 
-    are two menu bars for the users to choose from. The first menu bar has the options of a scientific calculator, a standard calculator and the option to exit for the 
-    user.The other menu bar has the option to either edit, cut, copy and paste for the users. It also stores the history of the past calculations in an another file if the 
-    users want to access the past calculations.
+    The scientific calculator performs various arithematic operations, trignometric functions, logarithmic functions, advanced functions and has scientific 
+    notations. There  are two menu bars for the users to choose from. The first menu bar has the options of a scientific calculator, a standard calculator and the 
+    option to exit for the  user.The other menu bar has the option to either edit, cut, copy and paste for the users. It also stores the history of the past 
+    calculations in an another file if the users want to access the past calculations.
 
 ### FUNCTIONALITIES OF A SMART CALCULATOR
 
@@ -26,28 +26,37 @@
 ### HOW TO RUN THE CODE
 
      1. Inserting the number 7.
+     
      ![7](https://github.com/Sakshi-Gare/DATA-ANALYTICS-CIA-1/assets/118895909/b10fbcf3-80df-4dfc-b445-23cbdc5357ec)
+     
      2. Performing log to the base 10.
+     
      3. Getting the value of log(7).
+     
      ![log(7)](https://github.com/Sakshi-Gare/DATA-ANALYTICS-CIA-1/assets/118895909/4d8ae7d0-8440-439a-89e7-fd9101ceba32)
+     
+     4. The video below showcases the working of the calculator of different mathematical operations.
+        
+        https://github.com/Sakshi-Gare/DATA-ANALYTICS-CIA-1/assets/118896039/249c52e3-365b-43ba-8bc8-e5c3014ac6dd
 
-      
+
 ### PRE- REQUISITES
 
-    For us to create this scientific calculator, we were required to import certain packages and libraries for the calculator to get an interface, display the buttons of 
-    all the  mathematical functions, run the operations and get the result.
+    For us to create this scientific calculator, we were required to import certain packages and libraries for the calculator to get an interface, display the 
+    buttons of all the  mathematical functions, run the operations and get the result.
     
-     1. Python- The programming language of python is to be installed in order to create this scientific calculator. Pyhton can be installed from its official website.
+     1. Python- The programming language of python is to be installed in order to create this scientific calculator. Pyhton can be installed from its official 
+                website.
      
-     2. TKinter- It is a GUI( Graphical User Interface) toolkit which has the neccessary packages and libraries for the calculator to display, since this smart calculator 
-                 is a GUI based calculator. TKinter can be installed from pip.
+     2. TKinter- It is a GUI( Graphical User Interface) toolkit which has the neccessary packages and libraries for the calculator to display, since this smart 
+                 calculator is a GUI based calculator. TKinter can be installed from pip.
 
      3. Math- Math library is also imported to perform all the mathematical functions in the calculator. 
 
      4. Menu- Menu library is used to easily create command lines for menu. Since we have displayed menu bar in  our calculator we have imported it.
                  
-     3. A code editor- Python code editor is required to type, edit and run the codes for the calculator. For instance Google Colaboratory, Visual Studio Code, Jupyter 
-                       Notebook or any other editor can be used.
+     3. A code editor- Python code editor is required to type, edit and run the codes for the calculator. For instance Google Colaboratory, Visual Studio Code, 
+                       Jupyter  Notebook or any other editor can be used.
                       
 #### SAMPLE OUTPUTS
 
