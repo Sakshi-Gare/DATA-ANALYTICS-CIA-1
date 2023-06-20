@@ -25,7 +25,12 @@
 
 ### HOW TO RUN THE CODE
 
-     1. 
+     1. Inserting the number 7.
+     ![7](https://github.com/Sakshi-Gare/DATA-ANALYTICS-CIA-1/assets/118895909/b10fbcf3-80df-4dfc-b445-23cbdc5357ec)
+     2. Performing log to the base 10.
+     3. Getting the value of log(7).
+     ![log(7)](https://github.com/Sakshi-Gare/DATA-ANALYTICS-CIA-1/assets/118895909/4d8ae7d0-8440-439a-89e7-fd9101ceba32)
+
       
 ### PRE- REQUISITES
 
@@ -48,3 +53,4 @@
 
     THE SMART CALCULATOR:
     
+    ![calc](https://github.com/Sakshi-Gare/DATA-ANALYTICS-CIA-1/assets/118895909/df96e483-f962-44e9-973f-bed3d81b453c)
